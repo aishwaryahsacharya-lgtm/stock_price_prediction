@@ -19,3 +19,7 @@ The model predicts future stock prices based on learned trends.
 ## Future Scope
 - Add multiple features
 - Use LSTM for better accuracy 
+
+## 🔗 Source code
+Click here to view the python implementation
+https://github.com/aishwaryahsacharya-lgtm/stock_price_prediction
