@@ -22,4 +22,6 @@ The model predicts future stock prices based on learned trends.
 
 ## 🔗 Source code
 Click here to view the python implementation
-https://github.com/aishwaryahsacharya-lgtm/stock_price_prediction
+
+🔗https://github.com/aishwaryahsacharya-lgtm/stock_price_prediction
+
